@@ -31,5 +31,7 @@ Lots...
 If you are inquiring on this library's limitations, you are ready to learn C++
 or other, more advanced programming languages.
 
+If you are looking for something more sophisticated, look here:
+https://github.com/robertrueger/ftl
 
 IN 2018/07/22
