@@ -35,3 +35,12 @@ If you are looking for something more sophisticated, look here:
 https://github.com/robertrueger/ftl
 
 IN 2018/07/22
+
+
+Modified the framework to allow for initialization of an arbitrary number of
+containers for each atomic-type container; it used to be a number hard-wired
+at compile-time. Clearing a container accessed via a handle is not the same
+as "dumping" all handles for a specific atomic type!
+
+IN 2018/09/28
+
